@@ -1,0 +1,1024 @@
+{
+  "profile": {
+    "name": "Hanall Sung, Ph.D.",
+    "affiliation": "University of Tennessee, Knoxville Educational Data Science",
+    "address": "Suite 514, 1126 Volunteer Blvd, Knoxville, TN 37916 USA",
+    "contact": "hanallsung@utk.edu, +1-608-960-3769",
+    "email": "hanallsung@utk.edu",
+    "interests": "(Multimodal) Learning Analytics, Human-AI Interaction, Emerging Learning Technologies (AR/VR), Computer-Supported Collaborative Learning, STEM Education"
+  },
+  "appointments": [
+    {
+      "title": "Assistant Professor (Tenure-track) of Educational Data Science University of Tennessee, Knoxville College of Education, Health, and Human Sciences Department of Theory & Practice in Teacher Education"
+    },
+    {
+      "title": "Postdoctoral Fellow in Learning Sciences and Psychological Studies University of North Carolina at Chapel Hill"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D., Educational Psychology (Learning Sciences) University of Wisconsin–Madison"
+    },
+    {
+      "degree": "M.S., Educational Psychology (Learning Sciences) University of Wisconsin–Madison"
+    },
+    {
+      "degree": "M.A. in Educational Technology Ewha Womans University, South Korea"
+    },
+    {
+      "degree": "B.A. in Educational Technology Ewha Womans University, South Korea"
+    }
+  ],
+  "honors": [
+    {
+      "date": "Oct 2022",
+      "text": "Doctoral Consortium Scholarship 4th International Conference on Quantitative Ethnography (ICQE)"
+    },
+    {
+      "date": "Jun 2022",
+      "text": "Patricia and Michael Busk Travel Scholarship School of Education, University of Wisconsin–Madison"
+    },
+    {
+      "date": "Jun 2022",
+      "text": "CSCL Naomi Miyake Best Student Paper Award 15th International Conference on Computer-Supported Collaborative Learning (CSCL)"
+    },
+    {
+      "date": "Feb 2022",
+      "text": "Student Research Grants Competition-Conference Presentation Award University of Wisconsin–Madison"
+    },
+    {
+      "date": "Sep 2021– May 2022",
+      "text": "Graduate School Fellowship College of Education, University of Wisconsin–Madison ($22,909)"
+    },
+    {
+      "date": "Mar 2021",
+      "text": "Wallace Student Scholarship International Society of the Learning Sciences (ISLS) (€150)"
+    },
+    {
+      "date": "Sep 2020",
+      "text": "Bridge to Success Scholarship School of Education, University of Wisconsin–Madison"
+    },
+    {
+      "date": "Apr 2019",
+      "text": "Student Research Grants Competition-Conference Presentation Award University of Wisconsin–Madison"
+    },
+    {
+      "date": "Sep 2017– May 2018",
+      "text": "Graduate School Fellowship College of Education, University of Wisconsin–Madison"
+    },
+    {
+      "date": "Sep 2016",
+      "text": "Best Master Thesis Award College of Education, Ewha Womans University, South Korea"
+    },
+    {
+      "date": "Feb 2015",
+      "text": "Highly Commended Poster Presentation Award 3rd Dubai International Conference in Higher Education, United Arab Emirates"
+    },
+    {
+      "date": "Sep 2014",
+      "text": "Gold Prize in Best Paper Award E-learning Korea 2014"
+    }
+  ],
+  "grants": {
+    "extramural": [
+      {
+        "date": "Funded and in progress (2024–2026)",
+        "text": "Artificially Intelligent Communication of Science Funding source: College For Social Sciences and Humanities, University Alliance Ruhr, Germany (€11,500) Role: International partner (PIs: Valentina Nachtigall and Maximilian Krug; International partner: Hanall Sung)",
+        "title": "Artificially Intelligent Communication of Science",
+        "funding_source": "College For Social Sciences and Humanities, University Alliance Ruhr, Germany (€11,500)",
+        "role": "International partner (PIs: Valentina Nachtigall and Maximilian Krug; International partner: Hanall Sung)"
+      },
+      {
+        "date": "Unfunded (2025–2029)",
+        "text": "Validating Learning Analytics with Student Voice by Aligning Traces, Text, and Interview Data about Self-Regulated STEM Learning Funding source: National Science Foundation (NSF) ($484,534) Role: Co-PI (PI: Joshua Rosenberg; Co-PIs: Hanall Sung, Shalaunda Reeves, Alex Lishinski, and Gregory Peterson)",
+        "title": "Validating Learning Analytics with Student Voice by Aligning Traces, Text, and Interview Data about Self-Regulated STEM Learning",
+        "funding_source": "National Science Foundation (NSF) ($484,534)",
+        "role": "Co-PI (PI: Joshua Rosenberg; Co-PIs: Hanall Sung, Shalaunda Reeves, Alex Lishinski, and Gregory Peterson)"
+      }
+    ],
+    "intramural": [
+      {
+        "date": "Funded and in progress (2025–2026)",
+        "text": "Development of the Computing, AI, and Data in Educational Systems (CADES) Center Funding source: College of Education, Health, & Human Sciences, University of Tennessee, Knoxville ($3,500) Role: Organizers/Lead faculty affiliates (Co-lead: Emily Holtz, Joshua Rosenberg, Louis Rocconi; Organizers/Lead faculty affiliates: Hanall Sung, Kelly Boles, Sukanya Moudgalya, Rachel Wong, Fatima Zahra)",
+        "title": "Development of the Computing, AI, and Data in Educational Systems (CADES) Center",
+        "funding_source": "College of Education, Health, & Human Sciences, University of Tennessee, Knoxville ($3,500)",
+        "role": "Organizers/Lead faculty affiliates (Co-lead: Emily Holtz, Joshua Rosenberg, Louis Rocconi; Organizers/Lead faculty affiliates: Hanall Sung, Kelly Boles, Sukanya Moudgalya, Rachel Wong, Fatima Zahra)"
+      },
+      {
+        "date": "Funded and in progress (2024–2027)",
+        "text": "Designing AI-enhanced XR Learning Interventions for STEM Education Funding source: College of Education, Health, & Human Sciences, University of Tennessee, Knoxville ($107,408) Role: PI (PI: Hanall Sung)",
+        "title": "Designing AI-enhanced XR Learning Interventions for STEM Education",
+        "funding_source": "College of Education, Health, & Human Sciences, University of Tennessee, Knoxville ($107,408)",
+        "role": "PI (PI: Hanall Sung)"
+      },
+      {
+        "date": "Completed (2024–2025)",
+        "text": "AI for Education: Developing Curricula, Planning for External Funding, and Connecting Faculty Funding source: AI Tennessee Initiative ($21,000) Role: Co-PI (PI: Louis Rocconi; Co-PIs: Hanall Sung, Joshua Rosenberg, Rachel Wong, Joshua Fagan, Xiaopeng Zhao, Gregory Peterson, Kelly Boles)",
+        "title": "AI for Education: Developing Curricula, Planning for External Funding, and Connecting Faculty",
+        "funding_source": "AI Tennessee Initiative ($21,000)",
+        "role": "Co-PI (PI: Louis Rocconi; Co-PIs: Hanall Sung, Joshua Rosenberg, Rachel Wong, Joshua Fagan, Xiaopeng Zhao, Gregory Peterson, Kelly Boles)"
+      }
+    ]
+  },
+  "publications": {
+    "published": [
+      {
+        "text": "Lee, H. H.*, Sung, H., Celedón-Pattichis, S., & Pattichis, M. (2026). Toward an inclusive understanding of collaborative learning using MMLA: Exploring multimodal participation dynamics by gender and linguistic diversity. Learning and Instruction, 102(102317). https://doi.org/10.1016/j.learninstruc.2026.102317 [SSCI-indexed; 5-year IF: 6.4]",
+        "title": "Lee, H. H.*, Sung, H., Celedón-Pattichis, S., & Pattichis, M. (2026). Toward an inclusive understanding of collaborative learning using MMLA: Exploring multimodal participation dynamics by gender and linguistic diversity. Learning and Instruction, 102(102317). https://doi.org/10.1016/j.learninstruc.2026.102317 [SSCI-indexed; 5-year IF: 6.4]",
+        "year": "2026",
+        "link": "https://doi.org/10.1016/j.learninstruc.2026.102317",
+        "doi": "10.1016/j.learninstruc.2026.102317",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H.* & Nathan, M. J. (2025). Unraveling temporally entangled multimodal interactions: Investigating verbal and nonverbal contributions to collaborative construction of embodied math knowledge. International Journal of Educational Technology in Higher Education, 22(8). https://doi.org/10.1186/s41239-025-00504-6 [SSCI-indexed; 5-year IF: 15.5]",
+        "title": "Sung, H.* & Nathan, M. J. (2025). Unraveling temporally entangled multimodal interactions: Investigating verbal and nonverbal contributions to collaborative construction of embodied math knowledge. International Journal of Educational Technology in Higher Education, 22(8). https://doi.org/10.1186/s41239-025-00504-6 [SSCI-indexed; 5-year IF: 15.5]",
+        "year": "2025",
+        "link": "https://doi.org/10.1186/s41239-025-00504-6",
+        "doi": "10.1186/s41239-025-00504-6",
+        "corresponding_author": true
+      },
+      {
+        "text": "Na, H. & Sung, H.* (2025). Learn math through motion: A technology-enhanced embodied approach with augmented reality for geometry learning in K-12 classrooms. Interactive Learning Environments, 33(6), 3744–3757. https://doi.org/10.1080/10494820.2025.2450663 [SSCI-indexed; 5-year IF: 6.2]",
+        "title": "Na, H. & Sung, H.* (2025). Learn math through motion: A technology-enhanced embodied approach with augmented reality for geometry learning in K-12 classrooms. Interactive Learning Environments, 33(6), 3744–3757. https://doi.org/10.1080/10494820.2025.2450663 [SSCI-indexed; 5-year IF: 6.2]",
+        "year": "2025",
+        "link": "https://doi.org/10.1080/10494820.2025.2450663",
+        "doi": "10.1080/10494820.2025.2450663",
+        "corresponding_author": true
+      },
+      {
+        "text": "Sung, H.*, Bernacki, M. L., Greene, J. A., Yu, L., & Plumley, R. D. (2024). Beyond frequency: Using epistemic network analysis and multimodal traces to understand temporal dynamics of self-regulated learning. Journal of Science Education and Technology, 34, 1110-1127. https://doi.org/10.1007/s10956-024-10164-2 [SSCI-indexed; 5-year IF: 5.1]",
+        "title": "Sung, H.*, Bernacki, M. L., Greene, J. A., Yu, L., & Plumley, R. D. (2024). Beyond frequency: Using epistemic network analysis and multimodal traces to understand temporal dynamics of self-regulated learning. Journal of Science Education and Technology, 34, 1110-1127. https://doi.org/10.1007/s10956-024-10164-2 [SSCI-indexed; 5-year IF: 5.1]",
+        "year": "2024",
+        "link": "https://doi.org/10.1007/s10956-024-10164-2",
+        "doi": "10.1007/s10956-024-10164-2",
+        "corresponding_author": true
+      },
+      {
+        "text": "Sung, H.* & Nathan, M. J. (2024). Your body tells how you engage in collaboration: Machine-detected body movements as indicators of engagement in collaborative math knowledge building. British Journal of Educational Technology, 55(5), 1950-1973. https://doi.org/10.1111/bjet.13473 [SSCI-indexed; 5-year IF: 8.1]",
+        "title": "Sung, H.* & Nathan, M. J. (2024). Your body tells how you engage in collaboration: Machine-detected body movements as indicators of engagement in collaborative math knowledge building. British Journal of Educational Technology, 55(5), 1950-1973. https://doi.org/10.1111/bjet.13473 [SSCI-indexed; 5-year IF: 8.1]",
+        "year": "2024",
+        "link": "https://doi.org/10.1111/bjet.13473",
+        "doi": "10.1111/bjet.13473",
+        "corresponding_author": true
+      },
+      {
+        "text": "Sung, H.*, Rau, M. A., & Van Veen, B. D. (2024). Development of an intelligent tutoring system that assess internal visualization skills in engineering using multimodal triangulation. IEEE Transactions on Learning Technologies, 17, 1625-1638. https://doi.org/10.1109/TLT.2024.3396393 [SSCI- and SCIE-indexed; 5-year IF: 5.5]",
+        "title": "Sung, H.*, Rau, M. A., & Van Veen, B. D. (2024). Development of an intelligent tutoring system that assess internal visualization skills in engineering using multimodal triangulation. IEEE Transactions on Learning Technologies, 17, 1625-1638. https://doi.org/10.1109/TLT.2024.3396393 [SSCI- and SCIE-indexed; 5-year IF: 5.5]",
+        "year": "2024",
+        "link": "https://doi.org/10.1109/TLT.2024.3396393",
+        "doi": "10.1109/TLT.2024.3396393",
+        "corresponding_author": true
+      },
+      {
+        "text": "Sung, H.* & Jo, I. (2018). Utilizing multimodal data to predict learning achievement: Behavioral log, psychophysiological response, and test anxiety. Journal of Educational Technology, 34(2), 287-308. https://doi.org/10.17232/KSET.34.2.287 [KCI-indexed; 5-year IF: 3.86]",
+        "title": "Sung, H.* & Jo, I. (2018). Utilizing multimodal data to predict learning achievement: Behavioral log, psychophysiological response, and test anxiety. Journal of Educational Technology, 34(2), 287-308. https://doi.org/10.17232/KSET.34.2.287 [KCI-indexed; 5-year IF: 3.86]",
+        "year": "2018",
+        "link": "https://doi.org/10.17232/KSET.34.2.287",
+        "doi": "10.17232/KSET.34.2.287",
+        "corresponding_author": true
+      },
+      {
+        "text": "Jo, I., Park, Y*., Yoon, M., & Sung, H. (2016). Evaluation of online log variables estimating learners’ time management in Korean online learning context. The International Review of Research in Open and Distance Learning, 17(1), 195-213. https://doi.org/10.19173/irrodl.v17i1.2176 [SSCI-indexed; 5-year IF: 2.8]",
+        "title": "Jo, I., Park, Y*., Yoon, M., & Sung, H. (2016). Evaluation of online log variables estimating learners’ time management in Korean online learning context. The International Review of Research in Open and Distance Learning, 17(1), 195-213. https://doi.org/10.19173/irrodl.v17i1.2176 [SSCI-indexed; 5-year IF: 2.8]",
+        "year": "2016",
+        "link": "https://doi.org/10.19173/irrodl.v17i1.2176",
+        "doi": "10.19173/irrodl.v17i1.2176",
+        "corresponding_author": false
+      }
+    ],
+    "under_review": [
+      {
+        "text": "Lim, J.*, Sung, H., & Zhu, Y. (under review). Preservice Teachers’ Digital/AI Competence Development in GenAI-Supported Lesson Planning: Orchestrating SQD2 Strategies. Computers & Education. [SSCI-indexed; 5-year IF: 13.0]",
+        "title": "Lim, J.*, Sung, H., & Zhu, Y. (under review). Preservice Teachers’ Digital/AI Competence Development in GenAI-Supported Lesson Planning: Orchestrating SQD2 Strategies. Computers & Education. [SSCI-indexed; 5-year IF: 13.0]",
+        "year": "under review",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H.* (under review). Human–AI collaboration in multimodal learning analytics: A framework for advancing the study of collaborative learning in the age of AI. International Journal of Computer-Supported Collaborative Learning. [SSCI-indexed; 5-year IF: 5.7]",
+        "title": "Sung, H.* (under review). Human–AI collaboration in multimodal learning analytics: A framework for advancing the study of collaborative learning in the age of AI. International Journal of Computer-Supported Collaborative Learning. [SSCI-indexed; 5-year IF: 5.7]",
+        "year": "under review",
+        "link": "",
+        "doi": "",
+        "corresponding_author": true
+      },
+      {
+        "text": "Sung, H.*, Barro, M., Yu, L., & Plumley, R. D., Bernacki, M. L., Green, J. A. (under 1st round review). Adhered or Independent: How students’ adherence to high-structure active learning shapes self-regulated learning processes and academic outcomes. British Journal of Educational Technology. [SSCI-indexed; 5-year IF: 8.1]",
+        "title": "Sung, H.*, Barro, M., Yu, L., & Plumley, R. D., Bernacki, M. L., Green, J. A. (under 1st round review). Adhered or Independent: How students’ adherence to high-structure active learning shapes self-regulated learning processes and academic outcomes. British Journal of Educational Technology. [SSCI-indexed; 5-year IF: 8.1]",
+        "year": "under 1st round review",
+        "link": "",
+        "doi": "",
+        "corresponding_author": true
+      },
+      {
+        "text": "Krug, M.*, Nachtigall, V., & Sung, H. (under 1st round review). AI labels undermine trust in scientific presenters. Journal of Broadcasting & Electronic Media. [SSCI-indexed; 5-year IF: 3.8]",
+        "title": "Krug, M.*, Nachtigall, V., & Sung, H. (under 1st round review). AI labels undermine trust in scientific presenters. Journal of Broadcasting & Electronic Media. [SSCI-indexed; 5-year IF: 3.8]",
+        "year": "under 1st round review",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, G.* & Sung, H. (under 2nd round review). Connecting blinks to constructs: A review-based validity evidence framework for multimodal learning analytics. Review of Educational Research. [SSCI-indexed; 5-year IF: 15.4]",
+        "title": "Sung, G.* & Sung, H. (under 2nd round review). Connecting blinks to constructs: A review-based validity evidence framework for multimodal learning analytics. Review of Educational Research. [SSCI-indexed; 5-year IF: 15.4]",
+        "year": "under 2nd round review",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      }
+    ],
+    "in_preparation": [
+      {
+        "text": "Sung, H.* (in progress). Human–AI hybrid intelligence in multimodal learning analytics: A framework applied to embodied learning.",
+        "title": "Sung, H.* (in progress). Human–AI hybrid intelligence in multimodal learning analytics: A framework applied to embodied learning.",
+        "year": "in progress",
+        "link": "",
+        "doi": "",
+        "corresponding_author": true
+      },
+      {
+        "text": "Sung, H.* & Nathan, M. J. (in progress). Advancing multimodal assessment in mathematics: Online embodied professional learning for teacher noticing and attitudes toward gesture.",
+        "title": "Sung, H.* & Nathan, M. J. (in progress). Advancing multimodal assessment in mathematics: Online embodied professional learning for teacher noticing and attitudes toward gesture.",
+        "year": "in progress",
+        "link": "",
+        "doi": "",
+        "corresponding_author": true
+      }
+    ],
+    "book_chapters": [
+      {
+        "text": "Kim, J., Lee, H., Yoo, Y., Sung, H., Jo, IH., Park, Y. (2015). Towards smart asynchronous discussion activity: Using social network analysis to investigate students’ discussion patterns. In: Chen, G., Kumar, V., Kinshuk, Huang, R., Kong, S. (eds) Emerging Issues in Smart Learning. Lecture Notes in Educational Technology. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-44188-6_50",
+        "title": "Kim, J., Lee, H., Yoo, Y., Sung, H., Jo, IH., Park, Y. (2015). Towards smart asynchronous discussion activity: Using social network analysis to investigate students’ discussion patterns. In: Chen, G., Kumar, V., Kinshuk, Huang, R., Kong, S. (eds) Emerging Issues in Smart Learning. Lecture Notes in Educational Technology. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-44188-6_50",
+        "year": "2015",
+        "link": "https://doi.org/10.1007/978-3-662-44188-6_50",
+        "doi": "10.1007/978-3-662-44188-6_50",
+        "corresponding_author": false
+      }
+    ],
+    "conference_proceedings": [
+      {
+        "text": "Sung, H., Rho, J., & Kim, T. (accepted). “I thought you were watching me”: Mismatches between learner expectations and AI capabilities in embodied virtual reality learning. The International Conference on Learning Sciences and Educational Innovation (ICOLSEI 2026), Seoul, Korea.",
+        "title": "Sung, H., Rho, J., & Kim, T. (accepted). “I thought you were watching me”: Mismatches between learner expectations and AI capabilities in embodied virtual reality learning. The International Conference on Learning Sciences and Educational Innovation (ICOLSEI 2026), Seoul, Korea.",
+        "year": "accepted",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Nachtigall, V., Krug, M., & Sung, H. (accepted). Uncritical but overconfident? How learners engage with AI-generated images of scientists. The 27th International Conference on AI in Education (AIED 2026), Seoul, Korea.",
+        "title": "Nachtigall, V., Krug, M., & Sung, H. (accepted). Uncritical but overconfident? How learners engage with AI-generated images of scientists. The 27th International Conference on AI in Education (AIED 2026), Seoul, Korea.",
+        "year": "accepted",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H. (accepted). Multimodal interactions with AI: Human–AI partnerships in learning, teaching, and research. Proceedings of the 20th International Conference of the Learning Sciences - ICLS 2026, Irvine, CA, United States.",
+        "title": "Sung, H. (accepted). Multimodal interactions with AI: Human–AI partnerships in learning, teaching, and research. Proceedings of the 20th International Conference of the Learning Sciences - ICLS 2026, Irvine, CA, United States.",
+        "year": "accepted",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Greene, J. A., Bernacki, M. L., Berro, M., Yu, L., & Plumley, R. D. (2026). Epistemic network analysis and multigroup modeling reveals domain specific self-regulated and active learning in biology. The 2026 Annual meeting of American Educational Research Association, Los Angeles, CA, United States.",
+        "title": "Sung, H., Greene, J. A., Bernacki, M. L., Berro, M., Yu, L., & Plumley, R. D. (2026). Epistemic network analysis and multigroup modeling reveals domain specific self-regulated and active learning in biology. The 2026 Annual meeting of American Educational Research Association, Los Angeles, CA, United States.",
+        "year": "2026",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H. (2026). Modeling multimodal interactions using epistemic network analysis: Key Considerations. In: Carmona, G., Lima, C., Santos, M.J., Benítez, H., Montero-Moguel, L., Galarza-Tohen, B. (eds) Advances in Quantitative Ethnography. ICQE 2025. Communications in Computer and Information Science, vol 2677. Springer, Cham. https://doi.org/10.1007/978-3-032-12229-2_19",
+        "title": "Sung, H. (2026). Modeling multimodal interactions using epistemic network analysis: Key Considerations. In: Carmona, G., Lima, C., Santos, M.J., Benítez, H., Montero-Moguel, L., Galarza-Tohen, B. (eds) Advances in Quantitative Ethnography. ICQE 2025. Communications in Computer and Information Science, vol 2677. Springer, Cham. https://doi.org/10.1007/978-3-032-12229-2_19",
+        "year": "2026",
+        "link": "https://doi.org/10.1007/978-3-032-12229-2_19",
+        "doi": "10.1007/978-3-032-12229-2_19",
+        "corresponding_author": false
+      },
+      {
+        "text": "Yu, L., Sung, H., Plumley, R. D., Bernacki, M. L., & Greene, J. A. (2025). Exploring sequential patterns in academic help-seeking: Transitions and performance in a college science course. In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 1744-1748). International Society of the Learning Sciences. https://doi.org/10.22318/icls2025.563588",
+        "title": "Yu, L., Sung, H., Plumley, R. D., Bernacki, M. L., & Greene, J. A. (2025). Exploring sequential patterns in academic help-seeking: Transitions and performance in a college science course. In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 1744-1748). International Society of the Learning Sciences. https://doi.org/10.22318/icls2025.563588",
+        "year": "2025",
+        "link": "https://doi.org/10.22318/icls2025.563588",
+        "doi": "10.22318/icls2025.563588",
+        "corresponding_author": false
+      },
+      {
+        "text": "Yu, L., Garland, A., Sung, H., Plumley, R. D., Greene, J. A., Fong, C. J., Halpin P. F., & Bernacki, M. L. (2025). Relationships among college students’ academic help-seeking behaviors and performance in an Introductory science course. The 2025 Annual meeting of American Educational Research Association, Denver, CO, United States.",
+        "title": "Yu, L., Garland, A., Sung, H., Plumley, R. D., Greene, J. A., Fong, C. J., Halpin P. F., & Bernacki, M. L. (2025). Relationships among college students’ academic help-seeking behaviors and performance in an Introductory science course. The 2025 Annual meeting of American Educational Research Association, Denver, CO, United States.",
+        "year": "2025",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Yu, L., Ren, S., Sung, H., Plumley, R. D., Garland, A., Greene, J. A., Fong, C. J., Halpin P. F., & Bernacki, M. L. (2025). Identifying college students’ academic help-seeking groups and their relationships with antecedents and academic performance. The 2025 Annual meeting of American Educational Research Association, Denver, CO, United States.",
+        "title": "Yu, L., Ren, S., Sung, H., Plumley, R. D., Garland, A., Greene, J. A., Fong, C. J., Halpin P. F., & Bernacki, M. L. (2025). Identifying college students’ academic help-seeking groups and their relationships with antecedents and academic performance. The 2025 Annual meeting of American Educational Research Association, Denver, CO, United States.",
+        "year": "2025",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Ha, J., Ku, D. H., Gong, H. J., Kang, S., Lee, J., Lee, Y., Park, K., Sung, H., & Yu, S. (2025). Leveraging AI tools in teacher education: Bridging theory and practice for transformative learning. The 2025 Annual meeting of Korean American Educational Research Association, Denver, CO, United States.",
+        "title": "Ha, J., Ku, D. H., Gong, H. J., Kang, S., Lee, J., Lee, Y., Park, K., Sung, H., & Yu, S. (2025). Leveraging AI tools in teacher education: Bridging theory and practice for transformative learning. The 2025 Annual meeting of Korean American Educational Research Association, Denver, CO, United States.",
+        "year": "2025",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Na, H. & Sung, H. (2024). The Effects of technology-enhanced embodied approach with augmented reality for geometry learning in K-12 Classrooms. The 2024 Annual meeting of the Association for Educational Communications and Technology, Kansas city, MO, United States.",
+        "title": "Na, H. & Sung, H. (2024). The Effects of technology-enhanced embodied approach with augmented reality for geometry learning in K-12 Classrooms. The 2024 Annual meeting of the Association for Educational Communications and Technology, Kansas city, MO, United States.",
+        "year": "2024",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Plumley, R. D., Bernacki, M. L., & Greene, J. A. (2024). Exploring differently motivated STEM learners’ self-regulated learning processes. American Psychological Association Annual Convention (Division 15), Seattle, WA, United States.",
+        "title": "Sung, H., Plumley, R. D., Bernacki, M. L., & Greene, J. A. (2024). Exploring differently motivated STEM learners’ self-regulated learning processes. American Psychological Association Annual Convention (Division 15), Seattle, WA, United States.",
+        "year": "2024",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Berro, M., Yu, L., Plumley, R. D., Bernacki, M. L., & Greene, J. A. (2024). Exploring the relationship between students’ adherence to active learning and self-regulated learning processes. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 2361-2362). International Society of the Learning Sciences. https://doi.org/10.22318/icls2024.111230",
+        "title": "Sung, H., Berro, M., Yu, L., Plumley, R. D., Bernacki, M. L., & Greene, J. A. (2024). Exploring the relationship between students’ adherence to active learning and self-regulated learning processes. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 2361-2362). International Society of the Learning Sciences. https://doi.org/10.22318/icls2024.111230",
+        "year": "2024",
+        "link": "https://doi.org/10.22318/icls2024.111230",
+        "doi": "10.22318/icls2024.111230",
+        "corresponding_author": false
+      },
+      {
+        "text": "Na, H. & Sung, H. (2024). The Effects of technology-enhanced embodied learning intervention for mathematics in K-12 classrooms. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 2385-2386). International Society of the Learning Sciences. https://doi.org/10.22318/icls2024.161940",
+        "title": "Na, H. & Sung, H. (2024). The Effects of technology-enhanced embodied learning intervention for mathematics in K-12 classrooms. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 2385-2386). International Society of the Learning Sciences. https://doi.org/10.22318/icls2024.161940",
+        "year": "2024",
+        "link": "https://doi.org/10.22318/icls2024.161940",
+        "doi": "10.22318/icls2024.161940",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Xia, F., & Nathan, M. J. (2024). Using learners’ machine-detected body movements to reveal their verbal and nonverbal contributions to the co-creation of embodied math knowledge. Presented at the round table session of The 2024 Annual meeting of Korean American Educational Research Association, Philadelphia, PA, United States.",
+        "title": "Sung, H., Xia, F., & Nathan, M. J. (2024). Using learners’ machine-detected body movements to reveal their verbal and nonverbal contributions to the co-creation of embodied math knowledge. Presented at the round table session of The 2024 Annual meeting of Korean American Educational Research Association, Philadelphia, PA, United States.",
+        "year": "2024",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Kim, D., Swart, M., & Nathan, M. (2023). Multimodal behavior analysis: Two patterns of collaborative construction of embodied knowledge. Proceedings of the Annual Meeting of the Cognitive Science Society, 45, Sydney, Australia. Retrieved from https://escholarship.org/uc/item/3nb4h58t",
+        "title": "Sung, H., Kim, D., Swart, M., & Nathan, M. (2023). Multimodal behavior analysis: Two patterns of collaborative construction of embodied knowledge. Proceedings of the Annual Meeting of the Cognitive Science Society, 45, Sydney, Australia. Retrieved from https://escholarship.org/uc/item/3nb4h58t",
+        "year": "2023",
+        "link": "https://escholarship.org/uc/item/3nb4h58t",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Grondin, M., Sung, H., Dey I., & Luu, R. (2022). Positionality matters: Diversifying research teams can affect data analyses. Paper presented at the Learning Sciences Graduate Students Conference, Bloomington, IL, United States.",
+        "title": "Grondin, M., Sung, H., Dey I., & Luu, R. (2022). Positionality matters: Diversifying research teams can affect data analyses. Paper presented at the Learning Sciences Graduate Students Conference, Bloomington, IL, United States.",
+        "year": "2022",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., & Na, H. (2022). Learning math with gestures: Exploratory research of integrating a technology-enhanced embodied intervention into classrooms. Paper presented at the 2022 Annual meeting of the Association for Educational Communications and Technology, Las Vegas, NV, United States.",
+        "title": "Sung, H., & Na, H. (2022). Learning math with gestures: Exploratory research of integrating a technology-enhanced embodied intervention into classrooms. Paper presented at the 2022 Annual meeting of the Association for Educational Communications and Technology, Las Vegas, NV, United States.",
+        "year": "2022",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., & Nathan, M. J. (2022). Unraveling temporally entangled multimodal interactions in CSCL environments. In Damşa, C. and Barany, A. (Eds.), The Fourth International Conference on Quantitative Ethnography: Conference Proceedings Supplement (pp. 163-165). Copenhagen, Denmark: The International Society for Quantitative Ethnography. https://www.qesoc.org/images/pdf/ICQE22_proceedings_supplement.pdf",
+        "title": "Sung, H., & Nathan, M. J. (2022). Unraveling temporally entangled multimodal interactions in CSCL environments. In Damşa, C. and Barany, A. (Eds.), The Fourth International Conference on Quantitative Ethnography: Conference Proceedings Supplement (pp. 163-165). Copenhagen, Denmark: The International Society for Quantitative Ethnography. https://www.qesoc.org/images/pdf/ICQE22_proceedings_supplement.pdf",
+        "year": "2022",
+        "link": "https://www.qesoc.org/images/pdf/ICQE22_proceedings_supplement.pdf",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Swart, M. I., & Nathan, M. J. (2022). Methods for analyzing temporally entangled multimodal data. In Weinberger, A. Chen, W., Hernández-Leo, D., & Chen, B. (Eds.), Proceedings of the 15th International Conference on Computer-Supported Collaborative Learning – CSCL 2022 (pp. 242-249). Virtual: International Society of the Learning Sciences. https://doi.dx.org/10.22318/cscl2022.242 [Awarded CSCL Naomi Miyake Best Student Paper]",
+        "title": "Sung, H., Swart, M. I., & Nathan, M. J. (2022). Methods for analyzing temporally entangled multimodal data. In Weinberger, A. Chen, W., Hernández-Leo, D., & Chen, B. (Eds.), Proceedings of the 15th International Conference on Computer-Supported Collaborative Learning – CSCL 2022 (pp. 242-249). Virtual: International Society of the Learning Sciences. https://doi.dx.org/10.22318/cscl2022.242 [Awarded CSCL Naomi Miyake Best Student Paper]",
+        "year": "2022",
+        "link": "https://doi.dx.org/10.22318/cscl2022.242",
+        "doi": "10.22318/cscl2022.242",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Swart, M., & Nathan, M. J. (2022). Teaching teachers teaching students: How embodied cognition can help pre-service teachers assess students’ mathematical thinking. Paper presented at the 2022 Annual meeting of American Educational Research Association, San Diego, CA, United States.",
+        "title": "Sung, H., Swart, M., & Nathan, M. J. (2022). Teaching teachers teaching students: How embodied cognition can help pre-service teachers assess students’ mathematical thinking. Paper presented at the 2022 Annual meeting of American Educational Research Association, San Diego, CA, United States.",
+        "year": "2022",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., & Nathan, M. J. (2021). Improving teachers’ embodied mathematical understanding of students’ gestures through online embodied learning activities. In Proceedings of the Learning Sciences Graduate Students Conference (pp. 5-6), Champaign, IL, United States.",
+        "title": "Sung, H., & Nathan, M. J. (2021). Improving teachers’ embodied mathematical understanding of students’ gestures through online embodied learning activities. In Proceedings of the Learning Sciences Graduate Students Conference (pp. 5-6), Champaign, IL, United States.",
+        "year": "2021",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Nachtigall, V., Nößler, A., & Sung, H. (2021). An epistemic network analysis of students’ beliefs about natural and educational scientists. In Wasson, B., Zörgő, S. (Eds.), Advances in Quantitative Ethnography. Communications in Computer and Information Science, Volume 1522. Springer, Cham, Virtual. https://doi.org/10.1007/978-3-030-93859-8_14",
+        "title": "Nachtigall, V., Nößler, A., & Sung, H. (2021). An epistemic network analysis of students’ beliefs about natural and educational scientists. In Wasson, B., Zörgő, S. (Eds.), Advances in Quantitative Ethnography. Communications in Computer and Information Science, Volume 1522. Springer, Cham, Virtual. https://doi.org/10.1007/978-3-030-93859-8_14",
+        "year": "2021",
+        "link": "https://doi.org/10.1007/978-3-030-93859-8_14",
+        "doi": "10.1007/978-3-030-93859-8_14",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Swart, M., & Nathan, M. J. (2021). Enhancing K-12 pre-service teachers’ embodied understanding of the geometry knowledge through online collaborative design. In Olanoff, D., Johnson, K., & Spitzer, S. M. (Eds.), Proceedings of the 43rd annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (pp. 909-917). Philadelphia, PA, United States.",
+        "title": "Sung, H., Swart, M., & Nathan, M. J. (2021). Enhancing K-12 pre-service teachers’ embodied understanding of the geometry knowledge through online collaborative design. In Olanoff, D., Johnson, K., & Spitzer, S. M. (Eds.), Proceedings of the 43rd annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (pp. 909-917). Philadelphia, PA, United States.",
+        "year": "2021",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Swart, M., Kirankumar, V., Sung, H., Xia, F., Kim, D., Kwon, O., Walkington, C., Schenck, K., & Nathan, M. J. (2021). Embodied transmission of ideas: Mathematical thinking through collaborative construction of geometry video game content. Proceedings of the 43rd Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (pp. 1341-1345). Philadelphia, PA, United States.",
+        "title": "Swart, M., Kirankumar, V., Sung, H., Xia, F., Kim, D., Kwon, O., Walkington, C., Schenck, K., & Nathan, M. J. (2021). Embodied transmission of ideas: Mathematical thinking through collaborative construction of geometry video game content. Proceedings of the 43rd Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (pp. 1341-1345). Philadelphia, PA, United States.",
+        "year": "2021",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Kirankumar, V., Sung, H., Swart, M., Kim, D., Xia, F., Kwon, O., Walkington, C., & Nathan, M. J. (2021). Embodied transmission of ideas: Collaborative construction of geometric content and mathematical thinking. In Hmelo-Silver, C. E., De Wever, B., & Oshima, J. (Eds.), Proceedings of the 14th International Conference on Computer-Supported Collaborative Learning – CSCL 2021 (pp. 177-180). Virtual: International Society of the Learning Sciences. https://doi.dx.org/10.22318/cscl2021.177",
+        "title": "Kirankumar, V., Sung, H., Swart, M., Kim, D., Xia, F., Kwon, O., Walkington, C., & Nathan, M. J. (2021). Embodied transmission of ideas: Collaborative construction of geometric content and mathematical thinking. In Hmelo-Silver, C. E., De Wever, B., & Oshima, J. (Eds.), Proceedings of the 14th International Conference on Computer-Supported Collaborative Learning – CSCL 2021 (pp. 177-180). Virtual: International Society of the Learning Sciences. https://doi.dx.org/10.22318/cscl2021.177",
+        "year": "2021",
+        "link": "https://doi.dx.org/10.22318/cscl2021.177",
+        "doi": "10.22318/cscl2021.177",
+        "corresponding_author": false
+      },
+      {
+        "text": "Nachtigall, V., Sung, H. (2019). Students’ collaboration patterns in a productive failure setting: An epistemic network analysis of contrasting cases. In: Eagan, B., Misfeldt, M., Siebert-Evenstone, A. (Eds.), Advances in Quantitative Ethnography. ICQE 2019. Communications in Computer and Information Science, vol 1112. Springer, Cham, Madison, WI, United States. https://doi.org/10.1007/978-3-030-33232-7_14",
+        "title": "Nachtigall, V., Sung, H. (2019). Students’ collaboration patterns in a productive failure setting: An epistemic network analysis of contrasting cases. In: Eagan, B., Misfeldt, M., Siebert-Evenstone, A. (Eds.), Advances in Quantitative Ethnography. ICQE 2019. Communications in Computer and Information Science, vol 1112. Springer, Cham, Madison, WI, United States. https://doi.org/10.1007/978-3-030-33232-7_14",
+        "year": "2019",
+        "link": "https://doi.org/10.1007/978-3-030-33232-7_14",
+        "doi": "10.1007/978-3-030-33232-7_14",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Cao, S., Ruis, A., & Shaffer, D. (2019). Reading for breadth, reading for depth: Understanding the relationship between reading and complex thinking using epistemic network analysis. In Lund, K., Niccolai, G. P., Lavoué, E., Hmelo-Silver, C., Gweon, G., & Baker, M. (Eds.), Proceedings of the 13th International Conference on Computer Supported Collaborative Learning – CSCL 2019, Volume 1 (pp. 376-383). Lyon, France: International Society of the Learning Sciences. https://doi.dx.org/10.22318/cscl2019.376",
+        "title": "Sung, H., Cao, S., Ruis, A., & Shaffer, D. (2019). Reading for breadth, reading for depth: Understanding the relationship between reading and complex thinking using epistemic network analysis. In Lund, K., Niccolai, G. P., Lavoué, E., Hmelo-Silver, C., Gweon, G., & Baker, M. (Eds.), Proceedings of the 13th International Conference on Computer Supported Collaborative Learning – CSCL 2019, Volume 1 (pp. 376-383). Lyon, France: International Society of the Learning Sciences. https://doi.dx.org/10.22318/cscl2019.376",
+        "year": "2019",
+        "link": "https://doi.dx.org/10.22318/cscl2019.376",
+        "doi": "10.22318/cscl2019.376",
+        "corresponding_author": false
+      },
+      {
+        "text": "Wu, B., Sung, H., & Shaffer, D. W. (2019). Exploring the epistemic development trajectories in jigsaw-based collaborative problem solving. Paper presented at the 2019 Annual Meeting of the American Educational Research Association, Toronto, Canada.",
+        "title": "Wu, B., Sung, H., & Shaffer, D. W. (2019). Exploring the epistemic development trajectories in jigsaw-based collaborative problem solving. Paper presented at the 2019 Annual Meeting of the American Educational Research Association, Toronto, Canada.",
+        "year": "2019",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Cao, T., Ruis, A. R., & Shaffer, D. W. (2019). An epistemic network analysis to investigate the interaction between reading and complex thinking using multimodal data. Poster presented at the University of Wisconsin-Madison Education Research Poster Fair, Madison, WI, United States.",
+        "title": "Sung, H., Cao, T., Ruis, A. R., & Shaffer, D. W. (2019). An epistemic network analysis to investigate the interaction between reading and complex thinking using multimodal data. Poster presented at the University of Wisconsin-Madison Education Research Poster Fair, Madison, WI, United States.",
+        "year": "2019",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Bhatt, H., Cao, T., Sung, H., Siebert-Evenstone, A., Eagan, B., & Shaffer, D. W. (2019). Analysis of multi-modal learning data using horizon of observation ENA. Poster presented at the University of Wisconsin-Madison Education Research Poster Fair, Madison, WI, United States.",
+        "title": "Bhatt, H., Cao, T., Sung, H., Siebert-Evenstone, A., Eagan, B., & Shaffer, D. W. (2019). Analysis of multi-modal learning data using horizon of observation ENA. Poster presented at the University of Wisconsin-Madison Education Research Poster Fair, Madison, WI, United States.",
+        "year": "2019",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., & Shaffer, D. W. (2018). An exploratory epistemic network analysis of combining multimodal data streams to understand student learning process. In Proceedings of the Learning Sciences Graduate Students Conference (pp. 172-173), Nashville, TN, United States.",
+        "title": "Sung, H., & Shaffer, D. W. (2018). An exploratory epistemic network analysis of combining multimodal data streams to understand student learning process. In Proceedings of the Learning Sciences Graduate Students Conference (pp. 172-173), Nashville, TN, United States.",
+        "year": "2018",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Swiecki, Z., Wu, B., & Shaffer, D. W. (2018). Reading for breadth, reading depth: A multimodal analysis of student learning processes with epistemic network analysis. Poster presented at the University of Wisconsin-Madison Education Research Poster Fair, Madison, WI, United States.",
+        "title": "Sung, H., Swiecki, Z., Wu, B., & Shaffer, D. W. (2018). Reading for breadth, reading depth: A multimodal analysis of student learning processes with epistemic network analysis. Poster presented at the University of Wisconsin-Madison Education Research Poster Fair, Madison, WI, United States.",
+        "year": "2018",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Lee, H., Sung, H., Park, Y., & Jo, I. (2015). Investigation influences of participation, regularity and centrality on learning achievement. Poster presented at the 3rd Dubai International Conference in Higher Education, Dubai, United Arab Emirates [Awarded Highly Commended Poster Presentation]",
+        "title": "Lee, H., Sung, H., Park, Y., & Jo, I. (2015). Investigation influences of participation, regularity and centrality on learning achievement. Poster presented at the 3rd Dubai International Conference in Higher Education, Dubai, United Arab Emirates [Awarded Highly Commended Poster Presentation]",
+        "year": "2015",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Lee, H., Sung, H., Yu, J., Park, Y., & Jo, I. (2015). Clustering of online students: Towards an elaborated prediction model of learning achievement. Paper presented at E-learning Korea 2015, Seoul, Korea.",
+        "title": "Lee, H., Sung, H., Yu, J., Park, Y., & Jo, I. (2015). Clustering of online students: Towards an elaborated prediction model of learning achievement. Paper presented at E-learning Korea 2015, Seoul, Korea.",
+        "year": "2015",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Lee, H., Sung, H., Yu, J., Park, Y., & Jo, I. (2015). Development of prediction models based on the clustered online learners’ behavioral patterns. In Proceedings of The International Academic Conference on Teaching, Learning and E-learning (IAC-TLEI), Budapest, Hungary. ISBN: 978-80-905791-4-9",
+        "title": "Lee, H., Sung, H., Yu, J., Park, Y., & Jo, I. (2015). Development of prediction models based on the clustered online learners’ behavioral patterns. In Proceedings of The International Academic Conference on Teaching, Learning and E-learning (IAC-TLEI), Budapest, Hungary. ISBN: 978-80-905791-4-9",
+        "year": "2015",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Lee, H., Park, Y. & Jo, I. (2014). Mediating effects of team activity on the relationship between students’ centrality and learning achievement in online discussion-based class. Proceedings of The International Conference of Educational Technology, Volume 2. Seoul, Korea: The Koreans Society for Educational Technology.",
+        "title": "Sung, H., Lee, H., Park, Y. & Jo, I. (2014). Mediating effects of team activity on the relationship between students’ centrality and learning achievement in online discussion-based class. Proceedings of The International Conference of Educational Technology, Volume 2. Seoul, Korea: The Koreans Society for Educational Technology.",
+        "year": "2014",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Yoo, Y., Jo, I., Park, Y., Lee, H., & Sung, H. (2014). Analyzing online discussion activity: Using social network analysis with learning analytics approach. Paper presented at the 2014 Annual meeting of the Association for Educational Communications and Technology Conference, Jacksonville, FL, United States.",
+        "title": "Yoo, Y., Jo, I., Park, Y., Lee, H., & Sung, H. (2014). Analyzing online discussion activity: Using social network analysis with learning analytics approach. Paper presented at the 2014 Annual meeting of the Association for Educational Communications and Technology Conference, Jacksonville, FL, United States.",
+        "year": "2014",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Kim, J., Sung, H., Park, Y., & Jo, I. (2014). Applying learning analytics dashboard as a learning supporting tool: A case study of online statistics class. Paper presented at E-learning Korea 2014, Seoul, Korea. [Awarded Gold Prize in Best Paper]",
+        "title": "Kim, J., Sung, H., Park, Y., & Jo, I. (2014). Applying learning analytics dashboard as a learning supporting tool: A case study of online statistics class. Paper presented at E-learning Korea 2014, Seoul, Korea. [Awarded Gold Prize in Best Paper]",
+        "year": "2014",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H., Yoon, M., Park, Y., & Jo, I. (2014). Relationship of students’ online behavior pattern and their psychological characteristics. Paper presented at the 12th International Conference for Media in Education, Seoul, Korea",
+        "title": "Sung, H., Yoon, M., Park, Y., & Jo, I. (2014). Relationship of students’ online behavior pattern and their psychological characteristics. Paper presented at the 12th International Conference for Media in Education, Seoul, Korea",
+        "year": "2014",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      }
+    ],
+    "invited_talks": [
+      {
+        "text": "Sung, H. (2024). The state of art in multimodal learning analytics. The 2nd Learning Sciences Research Institute, organized by Seoul National University, Seoul, Korea.",
+        "title": "Sung, H. (2024). The state of art in multimodal learning analytics. The 2nd Learning Sciences Research Institute, organized by Seoul National University, Seoul, Korea.",
+        "year": "2024",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H. (2024). ChatGPT4o and multimodal learning analytics. 2024 LAPA Summer Symposium, organized by Ewha Womans University, Seoul, Korea.",
+        "title": "Sung, H. (2024). ChatGPT4o and multimodal learning analytics. 2024 LAPA Summer Symposium, organized by Ewha Womans University, Seoul, Korea.",
+        "year": "2024",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H. (2022). Coding Nonverbal data QE Sandbox, Virtual. Retrieved from osf.io/m2x6g",
+        "title": "Sung, H. (2022). Coding Nonverbal data QE Sandbox, Virtual. Retrieved from osf.io/m2x6g",
+        "year": "2022",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Sung, H. (2022). Multimodal Learning Analytics. Birds of a Feather (BOF) Networking session at Learning Analytics and Knowledge (LAK) conference, Virtual.",
+        "title": "Sung, H. (2022). Multimodal Learning Analytics. Birds of a Feather (BOF) Networking session at Learning Analytics and Knowledge (LAK) conference, Virtual.",
+        "year": "2022",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Nathan, M. J., Swart, M., Kim, D., Sung, H., & Xia, F. (2021). Instructional gestures: Handy ways to promote comprehension and learning. The teaching and learning forum, organized by College and Steenbock libraries at University of Wisconsin-Madison, Virtual.",
+        "title": "Nathan, M. J., Swart, M., Kim, D., Sung, H., & Xia, F. (2021). Instructional gestures: Handy ways to promote comprehension and learning. The teaching and learning forum, organized by College and Steenbock libraries at University of Wisconsin-Madison, Virtual.",
+        "year": "2021",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      },
+      {
+        "text": "Siebert-Evenstone, A., Swiecki, Z., Eagan, B., Sung, H., & Shaffer, D. W. (2018). Developing and validating automated discourse codes: An introduction to nCodeR. In Proceedings of the Learning Sciences Graduate Students Conference (pp. 195-196), Nashville, TN, United States.",
+        "title": "Siebert-Evenstone, A., Swiecki, Z., Eagan, B., Sung, H., & Shaffer, D. W. (2018). Developing and validating automated discourse codes: An introduction to nCodeR. In Proceedings of the Learning Sciences Graduate Students Conference (pp. 195-196), Nashville, TN, United States.",
+        "year": "2018",
+        "link": "",
+        "doi": "",
+        "corresponding_author": false
+      }
+    ]
+  },
+  "research_experience": [
+    {
+      "date": "Aug 2023–Jul 2024",
+      "text": "Postdoctoral fellow Transformative Undergraduate Self-regulated STEM Learning and Education Research (NSF# 1920756) University of North Carolina at Chapel Hill PI: Bernacki, Matthew L. / Co-PI: Greene, Jeffrey A. Investigated the relationship between students’ think-aloud verbal data, behavioral log data, and academic success Applied epistemic network analysis to multimodal data to understand students’ self-regulated learning processes"
+    },
+    {
+      "date": "Jan 2023– May 2023",
+      "text": "Project Assistant Designing Cross-curricular Integrated Mathematics with Social Studies University of Wisconsin–Madison PI: Agarwal, Priyanka Led professional development program for teachers to design diversity and inclusion-focused cross-curricular math instruction Conducted interviews and qualitative analysis"
+    },
+    {
+      "date": "Sep 2020– May 2023",
+      "text": "Research Assistant Mathematical Action and Gesture in Instruction and Cognition Lab University of Wisconsin–Madison Advisor: Nathan, Mitchell J. Led design and development of an online, collaborative embodied learning intervention for pre-service math teachers Orchestrated the entire project, including IRB, recruitment, data collection, data analysis, and research findings dissemination"
+    },
+    {
+      "date": "Jul 2019– Aug 2020",
+      "text": "Project Assistant Learning Internal Visualization Skills for Complex Engineering Concepts in Active Learning Classes (NSF# 1933078) University of Wisconsin–Madison PI: Rau, Martina A. Led design and development of an intelligent tutoring system (ITS) through close collaboration with a programmer and content experts Conducted lab studies independently, leading data collection, data analysis, and research findings dissemination"
+    },
+    {
+      "date": "Aug 2017– Jul 2019",
+      "text": "Research Assistant Assessing Complex Collaborative STEM Learning at Scale with Epistemic Network Analysis (NSF# 1661036) University of Wisconsin–Madison PI: Shaffer, David W. Led research project on multimodal analysis, combining behavioral log data and chat data to understand the learning process Contributed to the development of rENA (Epistemic Network Analysis in R) for accurate modeling of multiple streams of data"
+    },
+    {
+      "date": "Sep 2014– Aug 2016",
+      "text": "Research Assistant Korea Research Foundation & Brain Korea 21 Plus Ewha Womans University Advisor: Jo, Il-Hyun Led research project on prediction modeling of learning achievement using student behavioral log data Conducted social network analysis on discussion data collected in a learning management system (LMS) and MOOC context"
+    },
+    {
+      "date": "Jul 2014– Aug 2014",
+      "text": "Research Assistant Institute for Teaching and Learning Center, Ewha Womans University Supported the digitization of instructional contents Conducted lecture video content analysis"
+    }
+  ],
+  "teaching": [
+    {
+      "date": "Jan 2026–May 2026",
+      "text": "Instructor Department of Theory and Practice in Teacher Education STEM 695: Capstone in Educational Data Science (Graduate, online) Conducted lectures throughout the semester",
+      "institution": "University of Tennessee, Knoxville"
+    },
+    {
+      "date": "Jan 2026–May 2026",
+      "text": "Instructor Department of Theory and Practice in Teacher Education STEM 680: Foundations in Educational Data Science (Graduate, online) Conducted lectures throughout the semester",
+      "institution": "University of Tennessee, Knoxville"
+    },
+    {
+      "date": "Aug 2025–Dec 2025",
+      "text": "Instructor Department of Theory and Practice in Teacher Education STEM 680: Foundations in Educational Data Science (Graduate, online) Conducted lectures throughout the semester Course evaluation score: 4.40/5.0",
+      "institution": "University of Tennessee, Knoxville"
+    },
+    {
+      "date": "Jan 2025–May 2025",
+      "text": "Instructor Department of Theory and Practice in Teacher Education STEM 680: Foundations in Educational Data Science (Graduate, online) Conducted lectures throughout the semester Course evaluation score: 4.86/5.0",
+      "institution": "University of Tennessee, Knoxville"
+    },
+    {
+      "date": "Aug 2024–Dec 2024",
+      "text": "Instructor Department of Theory and Practice in Teacher Education STEM 680: Foundations in Educational Data Science (Graduate, online) Conducted lectures throughout the semester Course evaluation score: 4.9/5.0",
+      "institution": "University of Tennessee, Knoxville"
+    },
+    {
+      "date": "Sep 2022– Dec 2022",
+      "text": "Lecturer Department of Educational Psychology EP 301: How people learn (Undergraduate, in-person) Conducted lectures throughout the semester Instructor effectiveness score: 4.77/5.0",
+      "institution": "University of Wisconsin-Madison"
+    },
+    {
+      "date": "Jun 2022– Aug 2022",
+      "text": "Teaching Assistant Learning Analytics Master’s program EP 551: Quantitative Ethnography (Graduate, online) EP 501: Thinking and Learning (Graduate, online) Assisted students in data analysis through one-on-one lab sessions and graded weekly assignments and the final project TA Effectiveness score: 4.58/5.0",
+      "institution": "University of Wisconsin-Madison"
+    },
+    {
+      "date": "Jun 2021– Aug 2021",
+      "text": "Teaching Assistant Learning Analytics Master’s program Analytics EP 501: Thinking and Learning (Graduate, online) Graded weekly assignments and final project TA Effectiveness score: 4.71/5.0",
+      "institution": "University of Wisconsin-Madison"
+    },
+    {
+      "date": "Aug 2020– May 2021",
+      "text": "Tech Teaching Assistant Department of Computer Sciences CS 240: Introduction to Discrete Mathematics CS 220: Data Science Programming I CS 354: Machine Organization and Programming (Undergraduate, online) Assisted in creating digital learning contents and facilitating (a)synchronous discussions",
+      "institution": "University of Wisconsin-Madison"
+    },
+    {
+      "date": "Apr 2020",
+      "text": "Guest lecturer Department of Educational Psychology EP 301: How people learn (undergraduate, in person) Conducted a lecture on Technology in Education",
+      "institution": "University of Wisconsin-Madison"
+    },
+    {
+      "date": "Aug 2019– May 2020",
+      "text": "Teaching Assistant Department of Educational Psychology EP 301: How people learn (Undergraduate, in person) Graded weekly assignments and final project TA Effectiveness score: 4.45/5.0",
+      "institution": "University of Wisconsin-Madison"
+    },
+    {
+      "date": "Sep 2022",
+      "text": "Guest lecturer Instructional Technology Master program INTE 534: Issues and Trends in Instructional Technology (Graduate, online) Conducted a lecture on Current trends and issues in Learning Analytics",
+      "institution": "University of Alabama"
+    },
+    {
+      "date": "Jun 2022",
+      "text": "Guest lecturer School of Education Educational Technology program (Undergraduate and Graduate, hybrid) Conducted a lecture on Research trends in Learning Sciences and Learning Analytics",
+      "institution": "Ewha Womans University"
+    }
+  ],
+  "advising": [
+    {
+      "group": "Dissertation Committee",
+      "date": "2025",
+      "text": "Omiya Sultana. Doctoral student. Ph.D. Dissertation Proposal. UT, Knoxville"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2026",
+      "text": "Seungju Kim. Postdoctoral scholar. KAIST"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2024–2025",
+      "text": "Jaesung Hur. Doctoral student. Florida State University"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2024–2025",
+      "text": "Hunhui Na. Doctoral student. Florida State University"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2024",
+      "text": "Ju Lim. Doctoral student. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2023–2024",
+      "text": "Linyu Yu. Doctoral student. UNC-Chapel Hill"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2023–2024",
+      "text": "Heewoo Lee. Doctoral student. UNC-Chapel Hill"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2023–2024",
+      "text": "Slki Narae Kim. Doctoral student. UNC-Chapel Hill"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2023",
+      "text": "Saerok Park. Doctoral student. University of Central Florida"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2022–2023",
+      "text": "Quinn Mierlak. Undergraduate student. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021–2023",
+      "text": "Fangli Xia. Doctoral student. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021–2023",
+      "text": "Jaeyoon Choi. Doctoral student. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021–2023",
+      "text": "Jihyun Rho. Doctoral student. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021",
+      "text": "Veena Kirankumar. Undergraduate Research Intern. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021",
+      "text": "Seongho Choi. Graduate student. Global Engagement office, UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021",
+      "text": "Hae Sol Park. Graduate student. Global Engagement office, UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021",
+      "text": "Hyelin Park. Graduate student. Global Engagement office, UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021",
+      "text": "Manuel Rueda. Graduate student. Global Engagement office, UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2021",
+      "text": "Ting (Sophia) Cheng. Graduate student. Global Engagement office, UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2020",
+      "text": "Samyu Iyer. Undergraduate Research Intern. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2019",
+      "text": "Claudia Ramly. Doctoral Student. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2019",
+      "text": "Xiaoyuan (Ethan) Zhong. Undergraduate Research Intern. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2018–2019",
+      "text": "Travis Cao. Undergraduate Research Intern. UW-Madison"
+    },
+    {
+      "group": "Mentoring",
+      "date": "2017–2018",
+      "text": "Yuqing (Vanessa) Wu. Undergraduate Research Intern. UW-Madison"
+    }
+  ],
+  "affiliations": {
+    "institutional": [
+      {
+        "title": "Assistant Professor (Tenure-track) of Educational Data Science University of Tennessee, Knoxville College of Education, Health, and Human Sciences Department of Theory & Practice in Teacher Education"
+      },
+      {
+        "title": "Postdoctoral Fellow in Learning Sciences and Psychological Studies University of North Carolina at Chapel Hill"
+      }
+    ],
+    "scholarly_communities": [
+      {
+        "date": "2026–present",
+        "text": "Board member International Society for Quantitative Ethnography (ISQE)"
+      },
+      {
+        "date": "2025",
+        "text": "Chair/Network Coordinator Korean EduTech/Learning Sciences Research Network (KELS)"
+      },
+      {
+        "date": "2024–present",
+        "text": "Early Career Scholar Korean American Educational Research Association (KAERA)"
+      },
+      {
+        "date": "2023–2024",
+        "text": "Event Committee Member/Board Member Korean EduTech/Learning Sciences Research Network (KELS)"
+      },
+      {
+        "date": "2020",
+        "text": "Peer Mentor Global Engagement Office, UW-Madison"
+      },
+      {
+        "date": "2018–2019",
+        "text": "President Korean Students and Scholars Association (KSSA), UW-Madison"
+      },
+      {
+        "date": "2014–2017",
+        "text": "Executive Member Korean Society for Educational Technology"
+      },
+      {
+        "date": "2014–2017",
+        "text": "Executive Member Association for Educational Communication and Technology"
+      },
+      {
+        "date": "2014–2017",
+        "text": "Assistant Administrator Korean Society for Learning and Performance"
+      }
+    ]
+  },
+  "service": {
+    "editorial": [
+      {
+        "date": "2025–present",
+        "text": "Computers & Education: X Reality"
+      },
+      {
+        "date": "2024–present",
+        "text": "Review of Educational Research"
+      },
+      {
+        "date": "2024–present",
+        "text": "Journal of Science Education and Technology"
+      },
+      {
+        "date": "2024–present",
+        "text": "Cognition and Instruction"
+      },
+      {
+        "date": "2023–present",
+        "text": "Journal of Educational Psychology"
+      }
+    ],
+    "conference_reviewing": [
+      {
+        "date": "2024–present",
+        "text": "International Conference on Quantitative Ethnography (ICQE)"
+      },
+      {
+        "date": "2022–present",
+        "text": "Annual meeting of American Educational Research Association (AERA)"
+      },
+      {
+        "date": "2021–present",
+        "text": "International Society of Learning Sciences (ISLS)"
+      },
+      {
+        "date": "2021–2023",
+        "text": "Psychology of Mathematics Education-North American Chapter Conference (PME-NA)"
+      },
+      {
+        "date": "2018–2022",
+        "text": "Learning Sciences Graduate Student Conference (LSGSC)"
+      }
+    ],
+    "professional": [
+      {
+        "date": "2026–present",
+        "text": "Chair of External Affairs Korean Society of Learning Sciences"
+      },
+      {
+        "date": "2026",
+        "text": "Review Committee Member 2026 AERA Division C Graduate Student Poster Award"
+      },
+      {
+        "date": "2026–present",
+        "text": "Program Committee Member International Conference on Quantitative Ethnography (ICQE)"
+      },
+      {
+        "date": "2024–present",
+        "text": "Membership Committee Member The International Society of the Learning Sciences (ISLS)"
+      },
+      {
+        "date": "2021–2022",
+        "text": "Communications Committee Member Learning Sciences Graduate Student Conference (LSGSC)"
+      },
+      {
+        "date": "2020",
+        "text": "Host Committee Member Learning Sciences Graduate Student Conference (LSGSC)"
+      },
+      {
+        "date": "2019",
+        "text": "Program Committee Member International Conference on Quantitative Ethnography (ICQE)"
+      },
+      {
+        "date": "2018–2019",
+        "text": "Submissions Committee Member Learning Sciences Graduate Student Conference (LSGSC)"
+      }
+    ],
+    "community": [
+      {
+        "date": "2026–present",
+        "text": "Board member International Society for Quantitative Ethnography (ISQE)"
+      },
+      {
+        "date": "2025",
+        "text": "Chair/Network Coordinator Korean EduTech/Learning Sciences Research Network (KELS)"
+      },
+      {
+        "date": "2024–present",
+        "text": "Early Career Scholar Korean American Educational Research Association (KAERA)"
+      },
+      {
+        "date": "2023–2024",
+        "text": "Event Committee Member/Board Member Korean EduTech/Learning Sciences Research Network (KELS)"
+      },
+      {
+        "date": "2020",
+        "text": "Peer Mentor Global Engagement Office, UW-Madison"
+      },
+      {
+        "date": "2018–2019",
+        "text": "President Korean Students and Scholars Association (KSSA), UW-Madison"
+      },
+      {
+        "date": "2014–2017",
+        "text": "Executive Member Korean Society for Educational Technology"
+      },
+      {
+        "date": "2014–2017",
+        "text": "Executive Member Association for Educational Communication and Technology"
+      },
+      {
+        "date": "2014–2017",
+        "text": "Assistant Administrator Korean Society for Learning and Performance"
+      }
+    ]
+  },
+  "skills": [
+    "Specialized in multimodal data collection and analysis, including automated body movement detection, gesture, behavioral log data, speech, and physiological signals",
+    "Expert in discourse analysis methods, particularly Epistemic Network Analysis (ENA)",
+    "Advanced expertise in natural language processing (NLP) techniques",
+    "Proficient in quantitative data analysis and related software (R, Python, SPSS)",
+    "Proficient in qualitative data analysis and software tools (V-Note, Transana)",
+    "Experience with JavaScript, AWS Transcribe (automatic speech recognition), and Cognitive Tutor Authoring Tools (CTAT)"
+  ],
+  "language": "English (fluent), Korean (native), Japanese (intermediate)",
+  "certification": "Teacher’s license in Ethics (Certified by Korean Ministry of Education)",
+  "source": {
+    "cv_file": "CV_Hanall Sung_with Index.docx",
+    "generated_at": "2026-04-30T10:09:10"
+  }
+}

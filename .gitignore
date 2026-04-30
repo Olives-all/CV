@@ -1,0 +1,12 @@
+.DS_Store
+~$*.docx
+
+# Workshop/example material kept locally but not published to the website repo.
+CV to GitHub Tutorial - Standalone.html
+Examples/
+Korean version/
+Old version/
+
+# Keep the current CV workflow files, but ignore alternate local exports.
+CV_Hanall Sung.docx
+CV_Hanall Sung.pdf

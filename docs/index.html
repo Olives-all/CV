@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hanall Sung | Educational Data Science</title>
+    <meta
+      name="description"
+      content="Academic profile for Hanall Sung, Ph.D., Assistant Professor of Educational Data Science at the University of Tennessee, Knoxville."
+    >
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Hanall Sung home">Hanall Sung</a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#grants">Grants</a>
+        <a href="#affiliations">Affiliations</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#service">Service</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Educational Data Science · Learning Analytics · Human-AI Interaction</p>
+          <h1 id="profile-name">Hanall Sung, Ph.D.</h1>
+          <p class="lede" id="profile-affiliation"></p>
+          <p class="interests" id="profile-interests"></p>
+          <div class="hero-actions">
+            <a class="button primary" href="#publications">View Publications</a>
+            <a class="button" href="assets/CV_Hanall_Sung_CV.pdf">Download CV</a>
+          </div>
+        </div>
+        <aside class="contact-panel" aria-label="Contact information">
+          <h2>Contact</h2>
+          <p id="profile-address"></p>
+          <p id="profile-contact"></p>
+          <a id="profile-email" href="mailto:hanallsung@utk.edu">hanallsung@utk.edu</a>
+        </aside>
+      </section>
+
+      <section class="summary-band" aria-label="Profile highlights">
+        <div>
+          <strong id="metric-publications">0</strong>
+          <span>publications and presentations</span>
+        </div>
+        <div>
+          <strong id="metric-grants">0</strong>
+          <span>active or recent grants</span>
+        </div>
+        <div>
+          <strong id="metric-teaching">0</strong>
+          <span>teaching appointments</span>
+        </div>
+        <div>
+          <strong id="metric-service">0</strong>
+          <span>service roles</span>
+        </div>
+      </section>
+
+      <section class="section two-column" id="research">
+        <div class="section-heading">
+          <p class="eyebrow">Profile</p>
+          <h2>Research at the intersection of multimodal data, learning, and AI.</h2>
+        </div>
+        <div class="stack">
+          <article class="panel">
+            <h3>Appointments</h3>
+            <div id="appointments" class="timeline"></div>
+          </article>
+          <article class="panel">
+            <h3>Education</h3>
+            <div id="education" class="list"></div>
+          </article>
+          <article class="panel">
+            <h3>Research Experience</h3>
+            <div id="research-experience" class="timeline"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="publications">
+        <div class="section-heading wide">
+          <p class="eyebrow">Research Archive</p>
+          <h2>Selected scholarly output from the CV.</h2>
+          <p>The publication list is generated from the Word CV and grouped by status, so updates can flow from the document into the website.</p>
+        </div>
+        <div class="publication-tools" aria-label="Publication filters">
+          <button class="filter-button active" data-filter="published">Journal Articles</button>
+          <button class="filter-button" data-filter="under_review">Under Review</button>
+          <button class="filter-button" data-filter="in_preparation">In Preparation</button>
+          <button class="filter-button" data-filter="book_chapters">Book Chapters</button>
+          <button class="filter-button" data-filter="conference_proceedings">Conference Proceedings</button>
+          <button class="filter-button" data-filter="invited_talks">Invited Talks</button>
+        </div>
+        <div id="publication-list" class="publication-list"></div>
+      </section>
+
+      <section class="section two-column" id="grants">
+        <div class="section-heading">
+          <p class="eyebrow">Funding</p>
+          <h2>Grant activity supporting AI, XR, and learning analytics research.</h2>
+        </div>
+        <div class="stack">
+          <article class="panel">
+            <h3>Extramural Grants</h3>
+            <div id="extramural-grants" class="grant-list"></div>
+          </article>
+          <article class="panel">
+            <h3>Intramural Grants</h3>
+            <div id="intramural-grants" class="grant-list"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section two-column" id="affiliations">
+        <div class="section-heading">
+          <p class="eyebrow">Affiliations</p>
+          <h2>Institutional roles and scholarly community involvement.</h2>
+        </div>
+        <div class="stack">
+          <article class="panel">
+            <h3>Institutional Appointments</h3>
+            <div id="institutional-affiliations" class="list"></div>
+          </article>
+          <article class="panel">
+            <h3>Scholarly Communities</h3>
+            <div id="scholarly-affiliations" class="timeline compact"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section two-column" id="teaching">
+        <div class="section-heading">
+          <p class="eyebrow">Teaching & Mentoring</p>
+          <h2>Graduate teaching, advising, and research mentoring.</h2>
+        </div>
+        <div class="stack">
+          <article class="panel">
+            <h3>Teaching Experience</h3>
+            <div id="teaching-list" class="timeline"></div>
+          </article>
+          <article class="panel">
+            <h3>Advising & Mentoring</h3>
+            <div id="advising-list" class="timeline compact"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="service">
+        <div class="section-heading wide">
+          <p class="eyebrow">Academic Service</p>
+          <h2>Editorial, professional, and scholarly community service.</h2>
+        </div>
+        <div class="service-grid">
+          <article class="panel">
+            <h3>Editorial Service</h3>
+            <div id="editorial-service" class="timeline compact"></div>
+          </article>
+          <article class="panel">
+            <h3>Conference Reviewing</h3>
+            <div id="conference-service" class="timeline compact"></div>
+          </article>
+          <article class="panel">
+            <h3>Professional Service</h3>
+            <div id="professional-service" class="timeline compact"></div>
+          </article>
+          <article class="panel">
+            <h3>Community Involvement</h3>
+            <div id="community-service" class="timeline compact"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section two-column" id="honors">
+        <div class="section-heading">
+          <p class="eyebrow">Honors & Skills</p>
+          <h2>Awards, methods, and research software strengths.</h2>
+        </div>
+        <div class="stack">
+          <article class="panel">
+            <h3>Awards, Honors, and Scholarships</h3>
+            <div id="honors-list" class="timeline compact"></div>
+          </article>
+          <article class="panel">
+            <h3>Methods and Software</h3>
+            <ul id="skills-list" class="skill-list"></ul>
+            <p class="small" id="language-line"></p>
+            <p class="small" id="certification-line"></p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Generated from <span id="source-file">CV_Hanall Sung_with Index.docx</span>.</p>
+      <p id="generated-at"></p>
+    </footer>
+
+    <script src="assets/cv-data.js"></script>
+    <script src="assets/app.js"></script>
+  </body>
+</html>
